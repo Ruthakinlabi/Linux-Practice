@@ -28,7 +28,7 @@ To practice and demonstrate basic file and directory operations in Linux includi
 ## 📂 Department Folders
 
 - Finance – Handles budget files and financial records
-- HR – Contains employee lists and policy documents
+- Marketing – Contains campaign ideas and sales strategy
 - IT – Stores configuration and system info
 - Admin – Stores internal communication files
 
