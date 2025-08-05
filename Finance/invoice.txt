@@ -1,3 +1,7 @@
-Invoice: 
-price #200,000
-Goods Machineries
+Invoice ID: 001 | Name: John Doe | Date: 2025-08-01 | Amount: $250.00 | Status: Paid
+Invoice ID: 002 | Name: Aisha Bello | Date: 2025-08-02 | Amount: $475.00 | Status: Unpaid
+Invoice ID: 003 | Name: Tunde Okoro | Date: 2025-08-03 | Amount: $300.00 | Status: Paid
+Invoice ID: 004 | Name: Jane Smith | Date: 2025-08-04 | Amount: $150.00 | Status: Pending
+Invoice ID: 005 | Name: Grace Obi | Date: 2025-08-05 | Amount: $600.00 | Status: Unpaid
+Invoice ID: 006 | Name: Musa Ali | Date: 2025-08-06 | Amount: $125.00 | Status: Paid
+Invoice ID: 007 | Name: Sarah Kent | Date: 2025-08-07 | Amount: $800.00 | Status: Overdue
